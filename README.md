@@ -212,17 +212,6 @@ Through this project, I developed practical understanding of:
 * Similarity matrices
 * Basic NLP visualization and analysis
 
-## AI Assistance
-
-AI tools were used during the project for:
-
-* Understanding NLP and word embedding concepts
-* Project planning and step-by-step guidance
-* Code assistance and debugging
-* Explaining model outputs
-* Improving project documentation
-
-The notebook was executed and the reported results were verified from the actual model outputs.
 
 ## Conclusion
 
